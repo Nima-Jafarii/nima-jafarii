@@ -1,11 +1,8 @@
-### 🔧 تکنولوژی‌هایی که باهاشون کار کردم:
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-### 📊 آمار گیت‌هاب من:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nima-dev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nima-dev&layout=compact&theme=radical)
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
-### 👋 به پروفایل من خوش اومدی!
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&color=F75C7E&width=435&lines=برنامه‌نویسی+یک+ماجراجویی+است!;کد+بنویس+و+دنیارو+تغییر+بده!">
+# <h1 align=center>👋 Hi, I'm Nima!<h1/>
+
+
+ <div>🎓I'm currently studying **Computer Engineering**<br>🚀 Learning **Python, Django, and Machine Learning**<br>☕ Coffee lover, coding enthusiast, and always up for new challenges<br>📫 Contact me: nima9059jafari@yahoo.com <div/>
+<!-- <div><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"> <div/> -->
+<h2>Languages and Tools:<h2/>
+  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Network+](https://img.shields.io/badge/-Network%2B-EA4E1D?style=flat&logo=compTia&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
